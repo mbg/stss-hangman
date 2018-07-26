@@ -1,0 +1,2 @@
+konsole --workdir=$(pwd)
+atom .
